@@ -1,3 +1,5 @@
 Line 1
 Line 2
 Line 3
+Sıkıntılı line
+Line 4 geldi Cenkten
